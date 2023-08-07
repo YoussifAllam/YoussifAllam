@@ -2,6 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 Machine Learning ,Deep Learning, and desktop applications developer
+* I'm Junior Computer Science Student at Benha university Faculty of Science, Department of Computer Science
+
+* and I'm Desktop application developer
+
+* who's currently seeking a opportunity in any of those fields ( Ai , Data analysis and Data scraping)
+
+* I am eager to build experience in my field, especially within the field of deep learning and Machine Learning.
 -------------------------------------------------------------------
 
 * ✉️  You can contact me at [youssifhassan011@gmail.com](mailto:youssifhassan011@gmail.com)
