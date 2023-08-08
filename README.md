@@ -6,7 +6,7 @@ Machine Learning ,Deep Learning, and desktop applications developer
 
 * and I'm Desktop application developer
 
-* who's currently seeking a opportunity in any of those fields ( Ai , Data analysis and Data scraping)
+* who's currently seeking a opportunity in any of those fields ( Ai , Data analysis )
 
 * I am eager to build experience in my field, especially within the field of deep learning and Machine Learning.
 -------------------------------------------------------------------
