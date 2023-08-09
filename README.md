@@ -27,7 +27,8 @@ Machine Learning ,Deep Learning, and desktop applications developer
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">social:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/youssif-hassan-495697249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssif-hassan-495697249" height="30" width="40" /></a>
 <a href="https://kaggle.com/youssifhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youssifhassan" height="30" width="40" /></a>
@@ -35,6 +36,7 @@ Machine Learning ,Deep Learning, and desktop applications developer
 <a href="https://codeforces.com/profile/youssif.hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="youssif.hassan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/youssifhassan011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="youssifhassan011" height="30" width="40" /></a>
 </p>
+
 
 
 <b>My GitHub Stats</b>
