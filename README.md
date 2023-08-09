@@ -26,14 +26,22 @@ Machine Learning ,Deep Learning, and desktop applications developer
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/YoussifAllam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/youssif-hassan-495697249" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@youssifhassan011" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/youssif-hassan-495697249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssif-hassan-495697249" height="30" width="40" /></a>
+<a href="https://kaggle.com/youssifhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youssifhassan" height="30" width="40" /></a>
+<a href="https://medium.com/@youssifhassan011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@youssifhassan011" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/youssif.hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="youssif.hassan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/youssifhassan011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="youssifhassan011" height="30" width="40" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/youssif.hassan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/youssifhassan011/)  
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/YoussifAllam"><img src="https://github-readme-stats.vercel.app/api?username=YoussifAllam&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="YoussifAllam's GitHub stats" /></a>
 
 <a href="http://www.github.com/YoussifAllam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussifAllam&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssifallam&label=Profile%20views&color=0e75b6&style=flat" alt="youssifallam" /> </p>
