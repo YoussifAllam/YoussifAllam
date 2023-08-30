@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 Machine Learning ,Deep Learning, and desktop applications developer
-* I'm Junior Computer Science Student at Benha university Faculty of Science, Department of Computer Science
+* I'm Computer Science Student at Benha university Faculty of Science, Department of Computer Science
 
 * and I'm Desktop application developer
 
