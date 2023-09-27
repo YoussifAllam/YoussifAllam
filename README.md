@@ -16,6 +16,7 @@ Machine Learning ,Deep Learning, and desktop applications developer
 
 
 
+
 ### Skills
 
 <p align="left">
