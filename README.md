@@ -3,9 +3,9 @@ Hi My name is Youssif Allam
 
 Machine Learning ,Deep Learning, and desktop applications developer
 
-* I'm Computer Science Student at Benha university Faculty of Science, Department of Computer Science  
+* I'm Graduate student Computer Science at Benha university Faculty of Science, Department of Computer Science  
 
-* and I'm Desktop application developer and Backend devoloper using Django 
+* and I'm Python Developer i am Django developer and Desktop application developer
 
 * who's currently seeking a opportunity in any of those fields ( Ai , Data analysis )
 
